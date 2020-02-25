@@ -1,1 +1,1 @@
-# https://timofeyluk.github.io/rsschool-cv/
+# https://timofeyluk.github.io/rsschool-cv/cv
